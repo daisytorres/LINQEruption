@@ -1,0 +1,15 @@
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/ORMs/LINQ/LINQEruption/bin/Debug/net6.0/LINQEruption
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/ORMs/LINQ/LINQEruption/bin/Debug/net6.0/LINQEruption.deps.json
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/ORMs/LINQ/LINQEruption/bin/Debug/net6.0/LINQEruption.runtimeconfig.json
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/ORMs/LINQ/LINQEruption/bin/Debug/net6.0/LINQEruption.dll
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/ORMs/LINQ/LINQEruption/bin/Debug/net6.0/LINQEruption.pdb
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/ORMs/LINQ/LINQEruption/obj/Debug/net6.0/LINQEruption.csproj.AssemblyReference.cache
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/ORMs/LINQ/LINQEruption/obj/Debug/net6.0/LINQEruption.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/ORMs/LINQ/LINQEruption/obj/Debug/net6.0/LINQEruption.AssemblyInfoInputs.cache
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/ORMs/LINQ/LINQEruption/obj/Debug/net6.0/LINQEruption.AssemblyInfo.cs
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/ORMs/LINQ/LINQEruption/obj/Debug/net6.0/LINQEruption.csproj.CoreCompileInputs.cache
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/ORMs/LINQ/LINQEruption/obj/Debug/net6.0/LINQEruption.dll
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/ORMs/LINQ/LINQEruption/obj/Debug/net6.0/refint/LINQEruption.dll
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/ORMs/LINQ/LINQEruption/obj/Debug/net6.0/LINQEruption.pdb
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/ORMs/LINQ/LINQEruption/obj/Debug/net6.0/LINQEruption.genruntimeconfig.cache
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/ORMs/LINQ/LINQEruption/obj/Debug/net6.0/ref/LINQEruption.dll
